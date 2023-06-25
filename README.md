@@ -21,6 +21,10 @@ To deploy this project follow the following steps
 ```bash
   <base_url_of_API>/username/date/month/year
 ```
+The base URL of the API is as follows:
+
+[Railway server](https://scrappercontinuo-production.up.railway.app/)  
+[Render server](https://msrit-continuo.onrender.com/)
 - The API throws LoginError and InternalServerError to handle the exception properly.
 - The API fetches the attendance records of the student.
 - The API fetches the internal assessment report of the student.
